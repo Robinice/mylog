@@ -25,5 +25,5 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration3
+### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
